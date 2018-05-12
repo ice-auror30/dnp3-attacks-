@@ -1,0 +1,4 @@
+# Nmap 6.47 scan initiated Tue Jun  2 14:18:55 2015 as: nmap -sS -oG output2 -O 192.168.106.127
+Host: 192.168.106.127 ()	Status: Up
+Host: 192.168.106.127 ()	Ports: 22/open/tcp//ssh///, 88/open/tcp//kerberos-sec///, 548/open/tcp//afp///, 5900/open/tcp//vnc///, 8192/open/tcp//sophos///, 8193/open/tcp//sophos///, 8194/open/tcp//sophos///	Ignored State: closed (993)	OS: Apple Mac OS X 10.7.0 (Lion) - 10.9.2 (Mavericks) or iOS 4.1 - 7.1 (Darwin 10.0.0 - 14.0.0)	Seq Index: 259	IP ID Seq: Randomized
+# Nmap done at Tue Jun  2 14:19:04 2015 -- 1 IP address (1 host up) scanned in 9.61 seconds
